@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "3d38ba5c4a846d38",
+        "id": "891d0c5e931d2eea",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Finite element analysis.md",
+            "file": "01Introduction/000Introduction.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "094284f5ab4b4417",
+        "id": "864e48e3cf0ab9d4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Finite element analysis.md",
+            "file": "01Introduction/000Introduction.md",
             "mode": "preview"
           }
         }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "finite",
+                "query": "assumptions",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "04e202bbeac51fbc",
@@ -80,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Finite element analysis.md",
+                "file": "01Introduction/000Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3d38ba5c4a846d38",
+  "active": "891d0c5e931d2eea",
   "lastOpenFiles": [
-    "Finite element analysis.md",
-    "Mathematical Formula.md",
-    "Untitled.md",
-    "Production of MLCC.md",
-    "Binder burn out.md",
-    "000Introduction.md",
-    "huang2015.md",
-    "nakamura2020effect.md"
+    "01Introduction/000Introduction.md",
+    "02Materials_Method/nakamura2020effect.md",
+    "Papers from Prof Chou/000Papers from Prof Chou.md",
+    "Papers from Prof Chou/Brown - Multilayer ceramic capacitor.md",
+    "Papers from Prof Chou/belko2019numerical.md",
+    "groh2016high-temperature.md",
+    "chae2007thermo.md",
+    "02Materials_Method/Finite element analysis.md",
+    "For Discussion.md",
+    "Untitled.md"
   ]
 }

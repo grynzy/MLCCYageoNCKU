@@ -11,6 +11,7 @@ Describing a three-dimensional finite element model describing the thermal-mecha
 Paragraph 1:
 Explanation of MLCC and drawbacks:
 During manufacturing and operation especially in automobile, however, the components of MLCCs are stressed by mechanical, thermal, and electrical loads.
+
 ### Need statement
 Thermal shock test, board flex (bending) test, and biased humidity test are required to ensure the drawbacks of mechanical, thermal, and electrical loads applied
 

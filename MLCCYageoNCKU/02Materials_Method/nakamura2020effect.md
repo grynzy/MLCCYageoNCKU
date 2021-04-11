@@ -9,3 +9,7 @@ Carbon removal rate increase in the case of debinding treatment iwth superheated
 	- removal rate of 98.8% after treated with  superheated steam at 800 C with 5 kg/h
 No cracking occurred in alumina molded bodies obtained by debinding in superheated steam
 
+# Question
+1. This data just concerned on the alumina molded bodies, not as a whole structure of MLCC which also consists of dielectric ceramics
+2. 
+

@@ -65,12 +65,18 @@ Consist of layer of (and thickness of):
 - #nickel 6 $\mu m$
 - #tin 6 $\mu m$
 ![[Pasted image 20210411132152.png]]
+![[Pasted image 20210411135147.png]]
 ### Method
 #Taguchi_L9_Method is adopted to:
 1. analyze the effects of the aforementioned four design parameters 
 2. determine the optimal design parameters necessary to minimize the peak tensile stress in the dielectric ceramics
 
-## Assumptions
+# Assumptions
+- Deformation behavior of the dielectric and the board is assumed to be elastic
+- The plastic deformatoni of the metals is described by a bilinear kinematic hardening law (see: [[franken2004finite]])
+
+# Expected results
+![[Pasted image 20210411222922.png]]
 
 
 
