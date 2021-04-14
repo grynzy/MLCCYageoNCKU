@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "7dd0259d189bcf6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "378757630487e381",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MLCCYageoNCKU/Papers from Prof Chou/000Papers from Prof Chou.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "41cbd0e8d4df5fd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "40d669dbc661d228",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "649470af3b8b2111",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d318384a8a8ebb05",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a1c3e5fe76601280",
+    "type": "split",
+    "children": [
+      {
+        "id": "493a1ac46887397f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3109f38d026b55c5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MLCCYageoNCKU/Papers from Prof Chou/000Papers from Prof Chou.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "378757630487e381",
+  "lastOpenFiles": [
+    "MLCCYageoNCKU/Papers from Prof Chou/000Papers from Prof Chou.md",
+    "MLCCYageoNCKU/Papers from Prof Chou/belko2019numerical.md",
+    "MLCCYageoNCKU/01Introduction/000Introduction.md",
+    "scott1990thermal.md"
+  ]
+}
