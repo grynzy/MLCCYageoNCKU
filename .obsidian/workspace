@@ -4,23 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "891d0c5e931d2eea",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "belko2019numerical.pdf"
-          }
-        }
-      },
-      {
         "id": "864e48e3cf0ab9d4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01Introduction/000Introduction.md",
-            "mode": "preview"
+            "file": "heunisch2010powder.md",
+            "mode": "source"
           }
         }
       }
@@ -78,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "belko2019numerical.pdf",
+                "file": "heunisch2010powder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "891d0c5e931d2eea",
+  "active": "864e48e3cf0ab9d4",
   "lastOpenFiles": [
-    "belko2019numerical.pdf",
+    "heunisch2010powder.md",
+    "01Introduction/Binder burn out.md",
+    "incledon2013modeling.md",
+    "feng2003modeling.md",
+    "Papers/feng2003modeling.pdf",
+    "shende2002determination.md",
     "01Introduction/000Introduction.md",
-    "02Materials_Method/nakamura2020effect.md",
-    "Papers from Prof Chou/000Papers from Prof Chou.md",
-    "Papers from Prof Chou/Brown - Multilayer ceramic capacitor.md",
-    "Papers from Prof Chou/belko2019numerical.md",
-    "groh2016high-temperature.md",
-    "chae2007thermo.md",
-    "02Materials_Method/Finite element analysis.md",
-    "For Discussion.md"
+    "For Discussion.md",
+    "Papers from Prof Chou/franken2004finite.md",
+    "scott1990thermal.md"
   ]
 }
