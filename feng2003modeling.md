@@ -44,4 +44,17 @@ Successfully develop a criterion to assess under what conditions the analytical 
 
 # Mathematical Model
 
+# Assumptions and Considerations
+1. **At low pressures, the gas is considered to be ideal** and the molar gas density, $\rho$, is related to the pressure by governing equations based on:
+	1. gas density
+	2. gas constant
+	3. temperature
+2. **The temperature distribution in the body is uniform** at any point in time because of:
+	1.  slow heating rates and 
+	2.  multiple hold periods used in binder removal cycles
+3.  The **viscosity of the gas is constant** during the heating cycle
+4.  **The dimensional changes** of the green body during binder removal are small
+	1.   Do not influence the pressure distribution
+5.   
+
 
