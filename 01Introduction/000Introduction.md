@@ -28,19 +28,21 @@ When I tried to find papers that do research related multilayer ceramic capacito
 ==Who to Cite==
 =
 1. Penjelasan kebutuhan binder burnout
-	1. [[feng2002stress.pdf]]
-	2. [[incledon2013modeling.pdf]]
+	1. [[feng2002stress]]
+	2. [[incledon2013modeling]]
 2. Kekurangan burnout dan penjelasan kenapa harus ditanggulangi
-	1. [[liau2005optimal.pdf]]
+	1. [[liau2005optimal]]
 3. Kekurangan metode yang sekarang dan kenapa harus ditanggulangi
-	1. tbc
+	1. [[masia1989effect]]
 4. Penjelasan superheated steam dan keunggulannya
 	1. tbc
-5. Penjelasan poroelasticity dan kegunaannya dibidang ini
+5. Jembatan superheated dengan poroelasticity
 	1. tbc
-6. Need statement kenapa harus ada governing equation buat ini
+6. Penjelasan poroelasticity dan kegunaannya dibidang ini
 	1. tbc
-7. Hasil yang kira2 akan didapat berdasarkan referensi
+7. Need statement kenapa harus ada governing equation buat ini
 	1. tbc
-8. 
+8. Hasil yang kira2 akan didapat berdasarkan referensi
+	1. tbc
+9. 
 
