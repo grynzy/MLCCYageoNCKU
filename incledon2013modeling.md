@@ -1,3 +1,27 @@
+*1st task to modeling the binder removal in a ceramic system is to understand all of the working components of the phenomenon*
+
+Main processes are:
+1. Thermal reaction of the binder
+2. Mass transport of the volatile products from the reaction
+
+## Polymers
+- very large molecular structure
+- chain-like with repeating units
+- if it is organic compound, it has a backbone chain of carbon atoms
+- Low densities
+- Ductile and pliable
+
+Binder burnout is used to remove the polymer from the porous green body, which is accomplished by thermal degradation
+	- Need to understand the thermal degradation process
+	
+Polymer does not degrade into a volatile form in a single  step
+
+Polymer --> solid1 --> gas1			Solid1 --> solid2  --> gas2
+
+==Challenge==
+The degradation of the polymer into an intermediate solid and a gas occurs at a lower temperature than the degradation of the intermediate solid to a gas.
+The weight loss profile of this reaction would have at least two regions of rapid weight loss since the gases are produced at different temperatures.
+	- This can be caused by different reaction rate
 # Research Objective
 Use computational methods to predict the #kinetic of #binder removal as a function of:
 - composition
@@ -40,3 +64,24 @@ COMSOL Multiphysics
 3. Binder burnout decomposition kinetics are determined on a per-species basis, but the products are all gases
 4. #Darcy's law is used to describe the gas flow of decomposition products out of the body
 	1. Assumed when the pore size is large relative to the mean free path of the gas-phase species, used here because this is the case of slower transport and therefore larger internal pressure being the rate limiting factor
+
+## COMSOL Multiphysics
+Was used to solve equation (17)
+![[Pasted image 20210419153429.png]]
+
+==**Physics of the Reaction**==
+=
+# 1. Determining the Reaction Kinetics
+
+# 2. Creating a Numerical Model for Pressure
+
+# 3. Multiple Volatile Species Created During Thermal Degradation
+
+==**Computational Model**==
+=
+# 1. Reaction Scenarios Modeled in COMSOL
+
+==**Discussion and Conclusion**==
+=
+1. A model has been made to track the *internal pressure* of a green body as it is subjected to a *heating sequence for the purpose of binder removal*
+2. 

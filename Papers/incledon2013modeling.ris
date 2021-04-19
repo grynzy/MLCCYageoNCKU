@@ -1,0 +1,10 @@
+TY  - JOUR
+TI  - Modeling binder removal in ceramic compacts
+DO  - https://doi.org/doi:10.7282/T3KH0KW7
+PY  - 2013
+AB  - Binder is often added to ceramic systems to provide mechanical strength to the green bodies during processing.  The binder removal sequence for an individual system is difficult to predict due to the thermal reaction and mass transport of the volatile products.  The objective of this work is to use computational methods to predict the kinetics of binder removal as a function of composition, particle size, pore size and tortuosity, temperature, body size and shape, etc..  The model will be used to predict the composition, temperature, and pore pressure as a function of time, position within the body, and heating sequence parameters.  This will provide the ability to predict optimum heating sequences that minimize processing time and energy input while avoiding harmful high internal pressures and temperatures.  Since there are many binder systems in use, a few specific cases will be considered.  TGA (thermogravimetric analysis) of binders will be used to measure kinetics parameters that are inputs for the computational model.     A framework will be developed to assess the binder removal sequence for a binder and ceramic system.  The input for the model, computed in COMSOL Multiphysics, will be determined through analysis of TGA weight loss data and green body characterization.  A set of tools will be presented that assist in the fitting of the TGA data, including the binder degrading into multiple species, higher order reactions, parallel and series reactions, etc..  The use of these ideas and tools will allow the modeler to better predict the heating sequence required for a ceramic and binder system to successfully remove all binder material.
+KW  - Materials Science and Engineering
+KW  - Binders (Materials) 
+KW  - Ceramic materials
+LA  - eng
+ER  - 

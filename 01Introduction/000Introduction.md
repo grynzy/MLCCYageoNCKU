@@ -24,3 +24,12 @@ Binder burn-out test between #Yageo and #Noritake is ongoing
 See [[000Papers from Prof Chou]] 
 
 When I tried to find papers that do research related multilayer ceramic capacitors with poroelasticity to be concerned, only [[singh2006plane]] appeared
+
+==Who to Cite==
+=
+1. Penjelasan kebutuhan binder burnout
+	1. [[feng2002stress.pdf]]
+	2. [[incledon2013modeling.pdf]]
+2. Kekurangan burnout
+	1. [[liau2005optimal.pdf]]
+

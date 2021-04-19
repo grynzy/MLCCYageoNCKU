@@ -1,0 +1,19 @@
+%0 Journal Article
+%A Feng , Z. C. 
+%A He, B. 
+%A Lombardo, S. J. 
+%T Stress Distribution in Porous Ceramic Bodies During Binder Burnout 
+%B Journal of Applied Mechanics
+%D 2002
+%R 10.1115/1.1460908
+%J Journal of Applied Mechanics
+%V 69
+%N 4
+%P 497-501
+%@ 0021-8936
+%X A model has been developed for describing the stresses that arise during binder burnout in three-dimensional porous bodies. The pressure gradient that arises from the decomposition of binder in the pore space is treated as an equivalent body force. For input into the mechanics model, the pressure distribution is obtained from the analytical solution for three-dimensional porous bodies with anisotropic permeability. The normal and shear stresses are then calculated from finite element analysis for bodies of parallelepiped geometry. In general, the normal stresses occur at the center of the body and are an order of magnitude larger than the shear stresses. Both the normal and shear stresses depend on the body size, the body geometry, and on the permeability.
+%[ 4/19/2021
+%U https://doi.org/10.1115/1.1460908
+
+
+
