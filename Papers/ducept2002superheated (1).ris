@@ -1,0 +1,21 @@
+TY  - JOUR
+T1  - Superheated steam dryer: simulations and experiments on product drying
+AU  - Ducept, F.
+AU  - Sionneau, M.
+AU  - Vasseur, J.
+JO  - Chemical Engineering Journal
+VL  - 86
+IS  - 1
+SP  - 75
+EP  - 83
+PY  - 2002
+DA  - 2002/02/28/
+T2  - Drying 2000: Selected Papers from the 12th International Symposium IDS2000
+SN  - 1385-8947
+DO  - https://doi.org/10.1016/S1385-8947(01)00275-3
+UR  - https://www.sciencedirect.com/science/article/pii/S1385894701002753
+KW  - CFD
+KW  - Residence time distribution
+KW  - Spray dryer
+AB  - This paper presents a CFD study as a way of conceiving and analyzing a new drying process: superheated steam spray dryer. A previous work has defined dryer design, on which CFD simulations have been validated in case of water drying. When drying a real product, which turns into dry powder, particle residence time distribution (RTD) seems to be strongly affected by fluid circulation and particle size distribution. Thus, time/temperature history, which rules final product quality, can be very different according to particle size and operating parameters. The CFD model is validated by comparing experimental and numerical RTD for two different operating conditions. Thus, we have a powerful tool for studying this dryer.
+ER  - 
