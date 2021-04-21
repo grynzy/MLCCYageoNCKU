@@ -46,3 +46,6 @@ When I tried to find papers that do research related multilayer ceramic capacito
 	1. tbc
 9. 
 
+What should I continue?
+1. Tambahin gambar dari YAGEO
+2. cek thermoporoelasticity
