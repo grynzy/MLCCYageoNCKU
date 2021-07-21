@@ -6,23 +6,21 @@
       {
         "id": "864e48e3cf0ab9d4",
         "type": "leaf",
-        "dimension": 74.55128205128206,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01Introduction/000Introduction.md",
+            "file": "01Introduction/CFD  Analysis.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "29687fc690010d85",
+        "id": "e82520c667617acc",
         "type": "leaf",
-        "dimension": 25.44871794871795,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01Introduction/000Introduction.md",
+            "file": "01Introduction/CFD  Analysis.md",
             "mode": "preview"
           }
         }
@@ -65,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "04e202bbeac51fbc",
@@ -82,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01Introduction/000Introduction.md",
+                "file": "01Introduction/CFD  Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +99,15 @@
   },
   "active": "864e48e3cf0ab9d4",
   "lastOpenFiles": [
+    "01Introduction/CFD  Analysis.md",
     "01Introduction/000Introduction.md",
+    "01Introduction/Untitled.md",
     "incledon2013modeling.md",
     "feng2003modeling.md",
     "heunisch2010powder.md",
     "01Introduction/Binder burn out.md",
     "Papers/feng2003modeling.pdf",
     "shende2002determination.md",
-    "For Discussion.md",
-    "Papers from Prof Chou/franken2004finite.md",
-    "scott1990thermal.md"
+    "For Discussion.md"
   ]
 }
