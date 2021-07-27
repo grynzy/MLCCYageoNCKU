@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "785b176c95ed114f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0797999d7b2fe13",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "COMBUSTION.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8709580f31853456",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ed56909d680688d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06e194414df2ca22",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "59ea7b131a580b52",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4358df065d727ea1",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd2798a7fb6b7e82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42bbddd2f1884d9c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "COMBUSTION.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a0797999d7b2fe13",
+  "lastOpenFiles": [
+    "COMBUSTION.md",
+    "The non-premixed regime.md"
+  ]
+}
