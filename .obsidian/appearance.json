@@ -1,5 +1,8 @@
 {
-  "theme": "moonstone",
-  "cssTheme": "Cyber Glow",
-  "baseFontSize": 24
+  "theme": "obsidian",
+  "cssTheme": "Cybertron",
+  "baseFontSize": 28,
+  "obsidianCss": false,
+  "translucency": false,
+  "baseFontSizeAction": false
 }
